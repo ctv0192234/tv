@@ -92,6 +92,9 @@ http://190.14.10.19:16000/play/a02d/index.m3u8
 #EXTINF:0,Disney Jr. Latin America North HD (1080p)
 #EXTVLCOPT:network-caching=1000
 http://181.78.14.26:4000/play/a073/index.m3u8
+#EXTINF:0,Golden Plus (1080p)
+#EXTVLCOPT:network-caching=1000
+http://45.5.118.152:8000/play/a03p/index.m3u8
 #EXTINF:36,¡HOLA! Play
 #EXTVLCOPT:network-caching=1000
 https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-hls-aes128-rtv-6433-playout/master.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.content_url=rakuten.tv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.extra_eids=&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=&ads.inv_partner_domain=rakuten.tv&ads.ip=162.158.122.168&ads.market=es&ads.network_name=RakutenTV&ads.os_language=&ads.placement=1&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rating=13&ads.rtv_channel_id=6433&ads.rtv_channel_name=hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1_es&ads.rtv_content_id=6433&ads.rtv_content_language=es&ads.rtv_language=es&ads.rtvid=271859&ads.streaming_id=54789ebf-7bf5-4af6-90b6-51f735ae2dc4&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6433&publishing_platform_id=5&tenant_identifier=rtv
@@ -194,6 +197,9 @@ https://daiconnect.com/live/hls/tvup/rk-feelgood/.m3u8?ads_amznbrmid=&ads_amznre
 #EXTINF:0,FIFA+
 #EXTVLCOPT:network-caching=1000
 https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_categories=IAB17&ads.content_genre=sports&ads.content_livestream=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.extra_eids=&ads.gam_correlator=&ads.gdpr_consent=&ads.ifa_type=&ads.inv_partner_domain=rakuten.tv&ads.ip=162.158.122.168&ads.market=es&ads.network_name=RakutenTV&ads.nonce=&ads.os_language=&ads.placement=1&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rating=0&ads.rtv_channel_name=fifa-plus-es-new_es&ads.rtv_content_id=6128&ads.rtv_content_language=es&ads.rtvid=271859&ads.streaming_id=9dacaaab-d223-4892-9c06-36fb56477700&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel_id=1780
+#EXTINF:0,ESPN Latin America Mexico (1080p)
+#EXTVLCOPT:network-caching=1000
+http://168.228.44.241:9997/play/a06p/index.m3u8
 #EXTINF:0,Azteca Deportes Network LITE 3
 #EXTVLCOPT:network-caching=1000
 https://jmp2.uk/rok-04be54c79d1f55d0909e684f64f9fb57.m3u8
