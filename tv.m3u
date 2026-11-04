@@ -2,9 +2,66 @@
 #EXTINF:36,CASA DE LOS FAMOSOS CANAL DE LAS ESTRELLAS
 #EXTVLCOPT:network-caching=1000
 https://zonacero.lat:443/felipe2026/felipe2026/452737
-#EXTINF:0,Garfield
+#EXTINF:0,Telediario Now
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/rok-ceb64d994c7756c2a8f09ace94c3e43f.m3u8
+#EXTINF:0,Azteca Noticias
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/rok-46eb1feb60da2bc45bee66f313b564de.m3u8
+#EXTINF:0,C4 en Alerta
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/rok-5cbb91d07dbd5b92ae3ef3e37be7f2ce.m3u8
+#EXTINF:0,Estrella News
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/rok-0af429c36c6b517e8df2025e809b3964.m3u8
+#EXTINF:0,Estrella TV
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/rok-91dff2b8a62b5fe1bdf64de721032cba.m3u8
+#EXTINF:0,ViX Grandes Parejas
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/rok-09430bcd30bf5b30a96ca22ecb87e3e1.m3u8
+#EXTINF:0,ViX Jajaja
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/rok-c51c18ade0bd5b68b5e9bfa83410e372.m3u8
+#EXTINF:0,ViX Novelas de oro
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/rok-ab6cd6569bf6557a8c5d9798cfce202b.m3u8
+#EXTINF:0,ViX Novelas en familia
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/rok-1d889b474b205fe385a2c552aa909b94.m3u8
+#EXTINF:0,ViX Villanos de Novela
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/rok-7b5699f58b2b54be9da4d23fe354fb59.m3u8
+#EXTINF:0,ViX Novelas de romance
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/rok-396f57d10b5d5ec98648f810dcbe1f11.m3u8
+#EXTINF:0,Novelísima
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/rok-b55fbe1ff60e55a688fdaa35dd790083.m3u8
+#EXTINF:0,Caso Cerrado
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/rok-0de9839c79b758589c580dcdd4b40a8a.m3u8
+#EXTINF:0,Cuando Los Angeles Caen
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/rok-a61227fe8ede21ffc0e223763ccbe42f.m3u8
+#EXTINF:0,El Señor de los Cielos
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/rok-5ae9fb0c6e015b0d951063f6a6b39ee5.m3u8
+#EXTINF:60,Garfield
 #EXTVLCOPT:network-caching=1000
 https://jmp2.uk/rok-c389cec44375fbb8881a2657daedf637.m3u8
+#EXTINF:60,Pitufo TV
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/rok-2bc36154da3310eaa692d0ea141ef8e0.m3u8
+#EXTINF:60,Sonic The Hedgehog
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/rok-498b53f6f63455bbba27754ceb5fcefc.m3u8
+#EXTINF:0,Super Mario Brothers
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/rok-a3c405bfca9b525983054aa761b10dfb.m3u8
+#EXTINF:0,Crunchyroll
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/rok-307b3b9ea321539b9688148fc97a8bfd.m3u8
 #EXTINF:0,Yu-Gi-Oh!
 #EXTVLCOPT:network-caching=1000
 https://amg01796-amg01796c18-rakuten-es-7491.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugiohees-rakutenes/playlist.m3u8?ads_amagi_channel_id=1007&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB1&ads_content_genre=action%2Canimation&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_extra_eids=&ads_gam_correlator=&ads_gdpr_consent=&ads_google_ad_manager_nonce=&ads_ifa_type=&ads_inv_partner_domain=rakuten.tv&ads_ip=162.158.122.168&ads_market=es&ads_network_name=RakutenTV&ads_os_language=&ads_placement=1&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_prodq=1&ads_rating=7&ads_rtv_channel_name=yu-gi-oh-new-spa_es&ads_rtv_content_id=6780&ads_rtv_content_language=es&ads_rtvid=271859&ads_streaming_id=4c7387e1-bf35-43d6-b158-3c3421dfe7b2&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
@@ -14,6 +71,9 @@ https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/mas
 #EXTINF:0,1+1 Travel
 #EXTVLCOPT:network-caching=1000
 https://daiconnect.com/live/hls/tvup/rk-1travel/.m3u8?ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_channelstore_channel_id=6098&ads_content_categories=IAB1&ads_content_genre=documentary%2Chobbies%2Coutdoors&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_did=&ads_env=prod&ads_extra_eids=&ads_gam_correlator=&ads_gdpr_consent=&ads_ifa_type=&ads_inv_partner_domain=rakuten.tv&ads_market=es&ads_network_name=RakutenTV&ads_opt_out_flag=1&ads_os_language=&ads_placement=1&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_prodq=1&ads_rating=0&ads_rtv_channel_name=1-1-travel_es&ads_rtv_content_id=6829&ads_rtv_content_language=es&ads_streaming_id=08973c47-9086-49f4-899c-2f905b7c84a3&ads_tcs_channel_id=6098&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+#EXTINF:0,Caracol Mix
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/rok-c5c6a54fbd0328b108453e2537b7eee1.m3u8
 #EXTINF:0,A bocados
 #EXTVLCOPT:network-caching=1000
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1&ads._fw_content_genre=cooking&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads._ifa_type=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=IndigeniusSpanish&ads.content_livestream=0&ads.csid=zeus_es_abocados_ssai&ads.extra_eids=&ads.gam_correlator=&ads.google_ad_manager_nonce=&ads.inv_partner_domain=rakuten.tv&ads.network_name=RakutenTV&ads.os_language=&ads.placement=1&ads.prodq=1&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=6979&ads.rakuten_streaming_id=7d558bd7-1f63-4a7c-a09a-cc30989b2fe3&ads.rakuten_user_type=visitor&ads.rtv_channel_name=a-bocados_es&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883131&ads.xumo_channel_id=88883131&ads.xumo_contentId=2459&ads.xumo_contentName=IndigeniusBonViajeSpanish&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=2459&ads.xumo_providerName=a-bocados-spa-rakutentv&ads.xumo_streamId=88883131
@@ -107,6 +167,15 @@ https://daiconnect.com/live/hls/tvup/rk-feelgood/.m3u8?ads_amznbrmid=&ads_amznre
 #EXTINF:0,FIFA+
 #EXTVLCOPT:network-caching=1000
 https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_categories=IAB17&ads.content_genre=sports&ads.content_livestream=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.extra_eids=&ads.gam_correlator=&ads.gdpr_consent=&ads.ifa_type=&ads.inv_partner_domain=rakuten.tv&ads.ip=162.158.122.168&ads.market=es&ads.network_name=RakutenTV&ads.nonce=&ads.os_language=&ads.placement=1&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rating=0&ads.rtv_channel_name=fifa-plus-es-new_es&ads.rtv_content_id=6128&ads.rtv_content_language=es&ads.rtvid=271859&ads.streaming_id=9dacaaab-d223-4892-9c06-36fb56477700&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel_id=1780
+#EXTINF:0,Azteca Deportes Network LITE 3
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/rok-04be54c79d1f55d0909e684f64f9fb57.m3u8
+#EXTINF:0,Estrella TV Deportes
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/rok-b3c06fdf730b2bc048507d096111d6c5.m3u8
+#EXTINF:0,FOX Sports
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/rok-0fc01f1136055d89bae495ba92eff445.m3u8
 #EXTINF:0,FilmRise Sci-Fi
 #EXTVLCOPT:network-caching=1000
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1&ads._fw_content_genre=sci-fi&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads._ifa_type=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=FilmRiseSciFiSpanish&ads.content_livestream=0&ads.csid=zeus_es_filmrisescifispanish_ssai&ads.extra_eids=&ads.gam_correlator=&ads.google_ad_manager_nonce=&ads.inv_partner_domain=rakuten.tv&ads.network_name=RakutenTV&ads.os_language=&ads.placement=1&ads.prodq=1&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=3689&ads.rakuten_streaming_id=33e82adc-7d17-4ff0-9493-713cc14a0fb5&ads.rakuten_user_type=visitor&ads.rtv_channel_name=filmrise-sci-fi-es_es&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883026&ads.xumo_channel_id=88883026&ads.xumo_contentId=2701&ads.xumo_contentName=FilmRiseSpanish&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=2701&ads.xumo_providerName=filmrise-sci-fi-spa-rakutentv&ads.xumo_streamId=88883026
@@ -352,10 +421,30 @@ https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=[CACHEBUSTER]&AV_WIDTH=[ADS.W
 #EXTINF:0,Naturaleza (MX)
 #EXTVLCOPT:network-caching=1000
 https://dapdwco2fkcoa.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=88887703&ads.xumo_streamId=88887703&ads.csid=vidaa_mx_naturalezaspanish_ssai&ads.caid=NaturalezaSpanish&ads.appName=%7BADS.APP_NAME%7D&ads.appVersion=1&ads._fw_app_bundle=%7BADS.APP_BUNDLE%7D&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=%7BADS.BRAND_NAME%7D&ads._fw_device_model=%7BADS.DEVICE_OSV%7D&ads._fw_devicetype=%7BADS.DEVICE_TYPE%7D&ads._fw_coppa=0&ads._fw_gdpr_consent=%7BADS.GDPR_CONSENT%7D&ads._fw_gdpr=%7BADS.GDPR%7D&ads._fw_is_lat=%7BADS.DNT%7D&ads._fw_us_privacy=%7BADS.US_PRIVACY%7D&ads._fw_h_x_country=%7BADS.DEVICE_COUNTRY%7D&ads._fw_player_width=%7BADS.W%7D&ads._fw_player_height=%7BADS.H%7D&ads.vauth=%7BADS.VAUTH%7D&ads.xumo_contentId=2161&ads.xumo_contentName=NaturalezaSpanish&ads.xumo_ifa=%7BADS.IFA%7D&ads.xumo_ifaType=%7BADS.IFA_TYPE%7D&ads.xumo_providerId=2161&ads.xumo_providerName=IndigeniusNaturalezaSpanish&ads.client_section=indigenius_naturalezaspanish&ads.vidaa_providername=Indigenius&ads._fw_app_store_url=%7BADS.APP_STORE_URL%7D&ads.vidaa_ads_param=1188362017&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=1700
-
-
-
-
+#EXTINF:0,The Bob Ross Channel
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/rok-1d3f60995d80521882a379fc06e47679.m3u8
+#EXTINF:0,ALF
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/rok-fac7a914e241bef68c80c2f6e549458e.m3u8
+#EXTINF:0,COPS en Español
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/rok-5b18fd4082c85d698f6f71702d82be28.m3u8
+#EXTINF:0,Crímenes Verdaderos
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/rok-c7fa77b283b35873aa6f08cf73d75b5f.m3u8
+#EXTINF:0,Misterios sin resolver
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/rok-f2bbfc9566f9519aad982aea41b95f83.m3u8
+#EXTINF:0,Real Crime
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/rok-cc72c25b76295e07862192d21bbff05b.m3u8
+#EXTINF:0,Runtime Sangre Fría
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/rok-c39d021ed8c95682a82ce6077ac0ab47.m3u8
+#EXTINF:0,Ghost Hunters
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/rok-e3a9171a7b9155ca89ba9f7f3e1a6bde.m3u8
 
 
 
